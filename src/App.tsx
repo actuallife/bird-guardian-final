@@ -10,7 +10,6 @@ import {
   Navigation,
   Menu,
   ArrowRight,
-  BookOpen,
   Gamepad2,
   Home,
   Trophy,
